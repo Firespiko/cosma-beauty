@@ -65,7 +65,7 @@ function App() {
   {/* Show results (don’t hide them while loading) */}
   {searchResults && searchQuery.length >= 2 && (
     <>
-      <h2>Results for "{searchResults.concern?.name}"</h2>
+      <h2>Results for "{searchQuery}"</h2>
 
       {searchResults.treatments?.length > 0 && (
         <section className="treatments-section">
