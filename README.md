@@ -570,6 +570,8 @@ For questions, issues, or contributions, please:
 
 **Thank you for using Cosma Beauty!**
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/1879f2e0fb984d1c9df5e86399b2505d?sid=b9141d12-bf95-4f89-9924-b9a0ef672bfb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 ---
 
 *Last updated: August 20, 2025*
