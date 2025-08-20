@@ -1,0 +1,36 @@
+/* src/styles/App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f9fafb;
+  color: #333;
+}
+
+.app-header {
+  background: linear-gradient(135deg, #6B46C1, #EC4899);
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.admin-btn {
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.admin-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.main-content {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
